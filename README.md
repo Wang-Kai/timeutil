@@ -2,7 +2,7 @@
 
 The util library to manipulate go time.
 
-## `StartOf` 
+### `StartOf` 
 
 Setting time to the start of a unit of time.
 
@@ -14,7 +14,7 @@ StartOf(now, D) // 2022-10-06 00:00:00
 StartOf(now, H) // 2022-10-06 21:00:00
 ```
 
-## `EndOf`
+### `EndOf`
 
 Setting time to the start of a unit of time.
 
